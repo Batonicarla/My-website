@@ -4,7 +4,7 @@
 
 This is a personal resume website built using pure HTML, CSS, and JavaScript. The site showcases my skills, work experience, education, projects, and contact information in a visually appealing, responsive, and user-friendly format. It serves as both a professional portfolio and a demonstration of my web development abilities.
 
-Live Demo: file:///C:/Users/PC/Videos/Resume%20portfolio/web.html
+Live Demo: https://batonicarla.github.io/My-website/
 
 Technologies Used
 
